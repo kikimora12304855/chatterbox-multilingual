@@ -46,3 +46,11 @@ checkpoints/
 
 # Ignore generated sample .wav files
 **/*.wav
+
+CLAUDE.md
+.cursorignore
+.claude/
+
+.venv/
+venv/
+uv.lock
