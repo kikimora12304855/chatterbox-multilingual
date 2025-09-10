@@ -50,6 +50,7 @@ checkpoints/
 CLAUDE.md
 .cursorignore
 .claude/
+reference/
 
 .venv/
 venv/
