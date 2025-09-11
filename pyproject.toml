@@ -19,7 +19,8 @@ dependencies = [
     "setuptools>=80.9.0",
     "torch>=2.8.0",
     "torchaudio>=2.8.0",
-    "transformers>=4.46.3",
+    # "transformers>=4.46.3",
+    "transformers>=4.46.3<=4.52",
 ]
 
 # extra chinese support
